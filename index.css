@@ -1,26 +1,40 @@
-h1{
-	color:gold;
-	font-size:40px;
+.ground{
+	width: 100%;
+	height: 640px;
+	background-image: url(timg1.jpg);
+	background-size: 100%;
+	overflow: hidden;
 }
-.text{
-	width:400px;s
-	height: 400px;
-	background: silver;
-	border: 2px #000 dashed;
+.box-name{
+	width: 520px;
+	height: 120px;
+	background: radial-gradient(#615d5a,#0a0a0a);
+	margin-left: 80px;
+	margin-top: 120px;
+	border-bottom: solid 4px black;
 }
-.text1{
-	color: blue;
-	width: 200px;
-	height: 50px;
-	margin: 30;
-	background: silver;
-	border: 2px #000 solid;
-	font-
+.name{
+	font-size: 30px;
+	color: #feda79;
+	margin-left: 100px;
+	padding-top: 10px;
+	margin-bottom: 20px;
 }
-.text2{
-	color: green;
-	width: 200px;
-	height: 50px;
-	background: red;
-	border: 2px #000 solid;
+.word{
+	font-size: 18px;
+	font-family: 楷体;
+	color: #9cf1f8;
+	margin-left: 50px;
+	font-weight: bold;
+}
+.minebox{
+	width: 125px;
+	height: 125px;
+	background-image: url(20180607105828.png);
+	background-size: 100%;
+	border-radius: 100px;
+	border:solid 4px black;
+	position: absolute;
+	left:45px;
+	top: 50px;
 }
