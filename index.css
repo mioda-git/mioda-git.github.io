@@ -1,0 +1,26 @@
+h1{
+	color:gold;
+	font-size:40px;
+}
+.text{
+	width:400px;s
+	height: 400px;
+	background: silver;
+	border: 2px #000 dashed;
+}
+.text1{
+	color: blue;
+	width: 200px;
+	height: 50px;
+	margin: 30;
+	background: silver;
+	border: 2px #000 solid;
+	font-
+}
+.text2{
+	color: green;
+	width: 200px;
+	height: 50px;
+	background: red;
+	border: 2px #000 solid;
+}
