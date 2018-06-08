@@ -27,7 +27,7 @@
 	margin-left: 50px;
 	font-weight: bold;
 }
-.minebox{
+.my-box{
 	width: 125px;
 	height: 125px;
 	background-image: url(20180607105828.png);
@@ -37,4 +37,22 @@
 	position: absolute;
 	left:45px;
 	top: 50px;
+}
+.option{
+	width: 400px;
+	height: 200px;
+	margin-left: 250px;
+}
+.option a{
+	font-family: "Nirmala UI";
+	font-weight: bold;
+	font-size: 20px;
+	display: block;
+	background: rgba(0,0,0,0.2);
+	width: 150px;
+	height: 50px;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	text-decoration: none;
 }
